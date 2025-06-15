@@ -1,7 +1,7 @@
-Sun Jun 15 09:53:27 CEST 2025 : Serwer sieciowy Apache Derby - 10.17.1.0 - (1913217) uruchomiony i gotowy do zaakceptowania połączeń na porcie 1527 w {3} 
+Sun Jun 15 19:16:39 CEST 2025 : Serwer sieciowy Apache Derby - 10.17.1.0 - (1913217) uruchomiony i gotowy do zaakceptowania połączeń na porcie 1527 w {3} 
 ----------------------------------------------------------------
-Sun Jun 15 09:53:27 CEST 2025:
- Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217) systemu Derby: instancja a816c00e-0197-7294-3f3a-ffffc9897672
+Sun Jun 15 19:16:39 CEST 2025:
+ Uruchamianie wersji The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217) systemu Derby: instancja a816c00e-0197-7497-de85-ffffc9897672
 w katalogu bazy danych C:\Users\MajczelXP8\OneDrive\Dokumenty\NetBeansProjects\Supermarket\Supermarket jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
 
 java.vendor=Azul Systems, Inc.
@@ -13,8 +13,8 @@ os.version=10.0
 derby.system.home=C:\Users\MajczelXP8\OneDrive\Dokumenty\NetBeansProjects\Supermarket
 Uruchomiono program ładujący klasę bazy danych - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Jun 15 10:00:11 CEST 2025: Shutting down Derby engine
+Sun Jun 15 20:27:45 CEST 2025: Shutting down Derby engine
 ----------------------------------------------------------------
-Sun Jun 15 10:00:11 CEST 2025:
-Wyłączanie instancji a816c00e-0197-7294-3f3a-ffffc9897672
+Sun Jun 15 20:27:45 CEST 2025:
+Wyłączanie instancji a816c00e-0197-7497-de85-ffffc9897672
 ----------------------------------------------------------------
