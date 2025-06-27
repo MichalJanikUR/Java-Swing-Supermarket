@@ -491,7 +491,6 @@ public final class Selling extends javax.swing.JFrame {
         } catch(PrinterException e){
             e.printStackTrace();
         }
-        
     }//GEN-LAST:event_PrintButtonMouseClicked
 
     private void RefreshButtonMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_RefreshButtonMouseClicked

@@ -345,8 +345,6 @@ public class Login extends javax.swing.JFrame {
                 }
             }
         }
-        
-        
     }//GEN-LAST:event_LoginButtonMouseClicked
 
     private void ClearButtonMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_ClearButtonMouseClicked
